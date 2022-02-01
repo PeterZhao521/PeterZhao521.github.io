@@ -1,0 +1,28 @@
+papers:
+  # #################################################################################### template
+  # - title: "Engaging Politically Diverse Audiences on Social Media"
+  #   authors: "<b>Martin Saveski</b>, Doug Beeferman, David McClure, Deb Roy"
+  #   venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
+  #   paper_pdf: "/assets/publications/filename/paper.pdf"
+  #   selected: y
+
+  # - title: "Perspective-taking to Reduce Affective Polarization on Social Media"
+  #   authors: "<b>Martin Saveski<sup>‡</sup></b>, Nabeel Gillani<sup>‡</sup>, Ann Yuan, Prashanth Vijayaraghavan, Deb Roy"
+  #   venue: "ICWSM'22: International AAAI Conference on Web and Social Media. 2022."
+  #   paper_pdf: "/assets/publications/filename/paper.pdf"
+  #   code: "https://github.com"
+  #   data: "https://github.com"
+  #   selected: y
+  # ######################################################################################
+
+  - title: "Multi-Functional Hydrogels for Flexible Zinc-Based Batteries Working under Extreme Conditions"
+    authors: "<b>Siyuan Zhao</b>, Yayu Zuo, Tong Liu, Shuo Zhai, Yawen Dai, Zengjia Guo, Yang Wang, Qijiao He, Lingchao Xia Chunyi Zhi, Jinhye Bae*, Keliang Wang*, and Meng Ni*"
+    venue: "Advanced Energy Materials"
+    paper_pdf: "/assets/publications/2021_advanced_energy_materials/paper.pdf"
+    selected: y
+
+  - title: "A New Solid-State Zinc–Air Battery for Fast Charge"
+    authors: "<b>Siyuan Zhao</b>, Keliang Wang*, Shuxian Tang, Xiaotian Liu, Kelin Peng, Yu Xiao, Yu Chen"
+    venue: "Energy Technology"
+    paper_pdf: "/assets/publications/2020_energy_technology/paper.pdf"
+    selected: y

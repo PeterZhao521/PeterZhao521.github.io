@@ -1,0 +1,31 @@
+experiences:
+
+- place: "The Hong Kong Polytechnic University"
+  time: "2020 - now"
+  title: "Ph.D. Student"
+  subtitle: "xx Lab"
+  category: "school"
+
+- place: "Beijing xx Co."
+  time: "July-Aug 2020"
+  title: "Summer Intern"
+  subtitle: "xx Group"
+  category: "work"
+
+- place: "University of California, San Diego"
+  time: "Sept 2019 – Jan 2020"
+  title: "Exchange Student"
+  subtitle: "Department of NanoEngineering"
+  category: "school"
+
+- place: "North Carolina State University"
+  time: "July-Sept 2019"
+  title: "Research Assistant"
+  subtitle: "Computational Fluid Dynamics Lab"
+  category: "school"
+
+- place: "Beijing Institute of Technology"
+  time: "2016 – 2020"
+  title: "B.E. Student"
+  subtitle: " Vehicle Engineering"
+  category: "school"
